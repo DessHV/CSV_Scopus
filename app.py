@@ -5,7 +5,7 @@ from collections import Counter
 import re
 
 # --- CONFIGURACIÓN DE DATOS ---
-GITHUB_CSV_URL = "/workspaces/CSV_Scopus/data/scopus_instagram_social_development.csv"
+GITHUB_CSV_URL = "data/scopus_instagram_social_development.csv"
 
 # --- PALETA DE COLORES (Inspiración Instagram / Autoestima) ---
 C_PURPLE = "#833AB4" 
